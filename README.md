@@ -28,7 +28,7 @@ I am a passionate Full Stack Developer focused on building robust, scalable web 
 - 🚀 Developing custom **CRM solutions** and enterprise-level tools.
 - 🐍 Deepening expertise in **Python/Flask** backend architectures.
 - 📊 Working with relational databases (**MySQL/PostgreSQL**) for data-heavy applications.
-- 💡 Background in **MERN Stack** development and Data Annotation workflows.
+- 💡 Background in **MERN Stack** development.
 
 ---
 
